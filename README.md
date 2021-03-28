@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on search-engine
 - 🌱 I’m currently learning graph databases
-- 👯 I’m looking to collaborate on Backstage (from Spotify)
+- 👯 I’m looking to collaborate on Directus
 - 🤔 I’m looking for help with useful ideas
 - 💬 Ask me about something
 - 📫 How to reach me: evalvlasov@gmail.com
